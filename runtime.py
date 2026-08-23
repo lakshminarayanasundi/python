@@ -1,0 +1,58 @@
+'''a=2
+b=4
+print(a+b)'''
+
+
+'''a=3
+b=8
+c=a+b
+print(c)'''
+
+
+#print(10+10)
+
+#run_time input()
+
+'''a=int(input("enter the a value"))
+b=int(input("enter the b value"))
+print(a+b)'''
+
+
+'''a=float(input(enter the avalue"))
+b=float(input("enter the b value"))
+print(a+b)'''
+
+
+
+'''a=str(input("data1"))
+b=str(input("data2"))
+print(a+b)'''
+
+
+'''fname=input("first name")
+lname=input("last name")
+print((fname+" "+lname).tittle())'''
+
+
+
+
+'''city=input("city name")
+print(city)'''
+
+
+'''a=complex(input("enter the a value"))
+b=co,plex(input(enter the b value"))
+print(a+b)'''
+
+
+'''a=bool(input("enter the a value"))
+b=bool(input("enter the b value"))
+c=bool(input("c value"))
+print(a+b+c)'''
+
+'''a=input(input())
+b=int(input())
+print(a+b)'''
+
+'''a=input()
+print(a)'''
